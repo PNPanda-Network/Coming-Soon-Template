@@ -11393,15 +11393,14 @@ video.bg-video {
 
 .contact {
   position: absolute;
-  right: 25px;
+  right: 50px;
   bottom: 150px;
   padding: 1%;
   background-color: #2C2F33;
   border-right: solid 5px #fff;
   width: 170px;
   z-index: 100;
-  transform: skewX(-9deg);
-transform-origin: top right;
+
 }
 
 .contact a {
