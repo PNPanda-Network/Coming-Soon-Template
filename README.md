@@ -13,7 +13,7 @@ Coming Soon Template Panda-Network
 <img src="https://i.imagicx.de/i/qp38mkudRV2Z.png" alt="drawing" width="200"/>
 <br>
 
-#### © 2019 - 2024 Panda-Network
+#### © 2019 - 2025 Panda-Network
 
 > Webseite: [Panda-Network.de](https://panda-network.de) \
 > Support [Discord-Server](https://discord.gg/z8ScRvf)
